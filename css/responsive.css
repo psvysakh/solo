@@ -1,0 +1,24 @@
+/*---for lap & desk---*/
+@media (min-width: 768px) and (max-width: 1366px){
+    .site-nav-wrapper{
+        padding: 0 20px;
+    }
+}
+/*---for lap & desk---*/
+@media (min-width: 992px) and (max-width: 1199px){
+    #home-heading h1 {
+        color: green;
+    }
+}
+/*---for small---*/
+@media (min-width:768px) and (max-width: 991px){
+    #home-heading h1 {
+        color: pink;
+    }
+}
+/*---for xs small---*/
+@media (max-width:768px){
+    #home-heading h1 {
+        color: pink;
+    }
+}
