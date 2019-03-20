@@ -131,8 +131,8 @@ $(window).on('load', function () {
     // Map Variables
     var addressString = '230 Broadway, NY, New York 10007, USA';
     var myLatlng = {
-        lat: 40.712685,
-        lng: -74.005920
+        lat: 9.503244,
+        lng: 76.730407
     };
 
     // 1. Render Map
